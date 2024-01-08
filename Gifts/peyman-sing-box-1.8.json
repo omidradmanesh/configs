@@ -90,7 +90,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "mamal.omidradmanesh10028333.workers.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -99,7 +99,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "Bee.OnlyclOudflarE.Workers.DEv"
+          "Host": "mamal.omidradmanesh10028333.workers.dev"
         },
         "max_early_data": 2048,
         "path": "/",
@@ -120,7 +120,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "mamal.omidradmanesh10028333.workers.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -129,7 +129,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "Bee.OnlyclOudflarE.Workers.DEv"
+          "Host": "mamal.omidradmanesh10028333.workers.dev"
         },
         "path": "/",
         "type": "ws"
@@ -179,7 +179,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "mamal.omidradmanesh10028333.workers.dev",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -188,7 +188,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "Bee.OnlyclOudflarE.Workers.DEv"
+          "Host": "mamal.omidradmanesh10028333.workers.dev"
         },
         "path": "/",
         "type": "ws"
